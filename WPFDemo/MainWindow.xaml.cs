@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,14 +21,32 @@ namespace WPFDemo
     /// </summary>
     public partial class MainWindow : Window
     {
+        public List<Person> people = new List<Person>(); 
         public MainWindow()
         {
             InitializeComponent();
+
+            people.Add(new Person{ FirstName="Shahadat", LastName="Hossain"});
+            people.Add(new Person{ FirstName="Shifa", LastName="Shahrin"});
+            people.Add(new Person{ FirstName="Shahraan", LastName="Ibn Shahadat"});
+            myComboBox.ItemsSource = people;
         }
 
         private void submitButton_Click(object sender, RoutedEventArgs e)
         {
             MessageBox.Show($"Hello {firstNameText.Text}");
+        }
+    }
+    public class Person
+    {
+        public string FirstName { get; set;}
+        public string LastName { get; set;}
+        public string FullName
+        {
+            get
+            {
+                return $"{FirstName} {LastName}";
+            }
         }
     }
 }
