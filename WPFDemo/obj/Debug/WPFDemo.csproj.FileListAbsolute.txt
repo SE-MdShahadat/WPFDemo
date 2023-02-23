@@ -1,0 +1,32 @@
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+C:\Users\AZG_ERP_00\Desktop\New folder\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.AssemblyReference.cache
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.SuggestedBindingRedirects.cache
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+F:\Skill Development\Git Workshop\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
